@@ -11,12 +11,20 @@ redirect_from:
 
 Papers
 ------
+
+#
 Novel Facial Image Generation via Deep Convolutional Generative Adversarial Networks
 Tu Yang
 [Papers]({{ site.url }}{{ site.baseurl }}/files/2021_Arxiv1.pdf)
 
-
+#
+Damaged Photo Restoration with High Resolution through StyleGAN Prior
+Tu Yang
 [Papers]({{ site.url }}{{ site.baseurl }}/files/2021_Arxiv2.pdf)
+
+#
+Scene Lighting Estimation for Augmented reality with Neural Models
+Zegang Wang
 [Papers]({{ site.url }}{{ site.baseurl }}/files/2021_Arxiv3.pdf)
 
 
